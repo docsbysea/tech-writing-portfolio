@@ -7,7 +7,7 @@ Customers are more than just data points on a report or trends in an analytics d
 
 This blog will explore five customer experience mistakes to reconsider, helping you build a brand that’s authentic, relevant, and in tune with your customers' evolving needs.
 
-![CX Trends Overview](https://github.com/docsbysea/tech-writing-portfolio/blob/main/blog/UX%20Trends%20Then%20vs%20Now.png)
+![CX Trends Overview](https://docsbysea.github.io/tech-writing-portfolio/blog/UX_Trends.png)
 *This infographic is made using Canva.*
 
 ### 1. Over-Reliance on Chatbots for Customer Service
