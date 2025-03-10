@@ -7,8 +7,8 @@ Customers are more than just data points on a report or trends in an analytics d
 
 This blog will explore five customer experience mistakes to reconsider, helping you build a brand that’s authentic, relevant, and in tune with your customers' evolving needs.
 
-![CX Trends Overview, made using Canva](https://github.com/docsbysea/tech-writing-portfolio/blob/86f7b07211ac78667da3ba4c045c53f57dd147d0/blog/UX%20Trends%20Then%20vs%20Now.png)
-5 CX Trends to Rethink-A Quick Overview (This infographic is made using canva).
+![CX Trends Overview](https://github.com/docsbysea/tech-writing-portfolio/blob/86f7b07211ac78667da3ba4c045c53f57dd147d0/blog/UX%20Trends%20Then%20vs%20Now.png)
+*This infographic is made using canva.*
 
 ### 1. Over-Reliance on Chatbots for Customer Service
 A recent [survey](https://www.businesswire.com/news/home/20240905660730/en/One-Bad-AI-Experience-Could-Drive-Customers-Away-Acquire-BPO-Study-Warns) reveals that 70% of customers feel frustrated and switch to a different brand after just one bad experience with a chatbot. That’s right, one misstep is all it takes to lose a customer. It may seem drastic, but this is how important it is for your brand to offer a customer service solution that prioritizes emotional intelligence, personalization, and empathy alongside accuracy and efficiency.
