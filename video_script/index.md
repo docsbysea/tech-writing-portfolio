@@ -2,6 +2,7 @@
 
 *Note: This script is part of a training video I designed to guide trainees through a data labeling tool's workflow. Acronyms replace confidential project details, and some information is condensed.*
 
+
 | **Scene**              | **Narration**                                                | **Visuals**                                                 |
 |------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | **Title Slide**        | Introduction to the tool and project.                      | - Close-up of presenter in a frame-in-frame setup <br> - Title of video |
