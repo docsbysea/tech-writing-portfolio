@@ -14,7 +14,7 @@
 | **Instructions (contd.)** | Demonstrate the remaining features of the tool.        | - Screen recording showcasing the remaining tool features |
 | **Closing Note**       | Conclude the topic.                                        | - Screen recording fades out <br> - Close-up of the presenter |
 
-## Script
+## Script:
 
 ### Title Slide  
 Hello, everybody! This is the first part of a three-part video series explaining the workflow of the DC project. I’m Seethalaxmi Palkumar, and in this video, I will walk you through the tool we will be working with. It’s called Superannotate.  
