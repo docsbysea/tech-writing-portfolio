@@ -1,6 +1,6 @@
 # Video Script: Project Training
 
-*Note: This script is part of a training video I designed to guide trainees through a data labeling tool's workflow. Acronyms replace confidential project details, and some information is condensed.*
+*Note: This script is part of a training video series I designed to guide trainees through a data labeling tool's workflow. Acronyms replace confidential project details, and some information is condensed.*
 
 
 | **Scene**              | **Narration**                                                | **Visuals**                                                 |
