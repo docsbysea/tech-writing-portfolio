@@ -33,7 +33,7 @@ Once the project is open, all the videos assigned to you will be listed. If none
 ### Opening a Task  
 Clicking on a video will bring you to this interface. Here, it is important to note the video's unique **ID**, which is used for tracking and documentation.  
 
-To find the **ID**, click on the downward arrow next to the task name, then select the **info icon (ⓘ)** from the dropdown menu. This will display the task details, including the **ID**. Copy this **ID** and paste it into the assigned document for reference.  
+To find the ID, click on the downward arrow next to the task name, then select the **info icon (ⓘ)** from the dropdown menu. This will display the task details, including the ID. Copy this ID and paste it into the assigned document for reference.  
 
 ### Task Set-Up  
 The bar at the top displays two options: **Global** and **Event Captions**. Use the **Global Caption** section to write your global caption. Here, you will also mark **Yes** or **No** to indicate whether the video is of poor quality.  
