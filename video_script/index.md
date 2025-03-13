@@ -44,7 +44,7 @@ Under Events section, to create an event, click on **Add Event.** These fields a
 To play a video, click on **Play** or simply click anywhere on the video. To pause, follow the same procedure. To zoom into a video, place the cursor at the section you want to enlarge and use your mouse or touchpad to scroll in.
 
 ### Quick Tip
-Sometimes, the video may go blank. When this happens, use the **refresh icon** to reload the page. If that doesn’t work, use the **Reload this Page** option on your browser. However, if you’ve already entered data, press Ctrl + S to save your work before refreshing to avoid data loss.
+Sometimes, the video may go blank. When this happens, use the **refresh icon** to reload the page. If that doesn’t work, use the **Reload this Page** option on your browser. However, if you’ve already entered some data, press Ctrl + S to save your work before refreshing to avoid data loss.
 
 ### Instructions (contd.)
 Clicking on the **Home** icon will take you back to the list of IDs. The **Revert Task** icon clears everything that has been saved. A warning pop-up will appear, so if you click it by accident, you can cancel before losing your work.  Click **Skip Item** to skip a task. There are specific reasons for skipping a task, which will be discussed in the next video. When you’re done with a task, click **Quality Check** to submit it.
