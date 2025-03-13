@@ -41,7 +41,7 @@ The bar at the top displays two options: Global and Event Captions. Use the Glob
 Under Events section, to create an event, click on **Add Event.** These fields are for entering your start and end times, and the caption goes in the designated field. You can add any number of events and delete them as needed.  
 
 ### Instructions  
-To play a video, click on Play or simply click anywhere on the video. To pause, follow the same procedure. To zoom into a video, place the cursor at the section you want to enlarge and use your mouse or touchpad to scroll in.
+To play a video, click on **Play** or simply click anywhere on the video. To pause, follow the same procedure. To zoom into a video, place the cursor at the section you want to enlarge and use your mouse or touchpad to scroll in.
 
 ### Quick Tip
 Sometimes, the video may go blank. When this happens, use the **refresh icon** to reload the page. If that doesn’t work, use the **Reload this Page** option on your browser. However, if you’ve already entered data, press Ctrl + S to save your work before refreshing to avoid data loss.
