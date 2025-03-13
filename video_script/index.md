@@ -9,7 +9,7 @@
 | **Tool Introduction**  | How to get started with the tool and sign in to your account. | - Screen recording showing the tool’s login page and user sign-in process |
 | **Project Allotment**  | How to find the right project and get started.             | - Screen recording demonstrating project selection and setup |
 | **Opening a Task**     | How to open a task and document its unique ID.             | - Screen recording of a user navigating to a task, opening it, and copying its unique ID |
-| **Task Set-Up**        | Navigating the task bar.                                   | - Screen recording highlighting key features and their functions |
+| **Task Set-Up**        | Navigating the task bar.                                   | - Screen recording highlighting key features of the task bar and their functions |
 | **Instructions**       | List the features of the tool.                            | - Screen recording showcasing each tool feature in action |
 | **Quick Tip**         | Share time-saving tips, like using keyboard shortcuts and customizing the tool's interface. | - Screen recording performing the mentioned tips |
 | **Instructions (contd.)** | Demonstrate the remaining features of the tool.        | - Screen recording showcasing the remaining tool features |
@@ -26,7 +26,7 @@ When opening the tool for the first time, you will need to create an account to 
 Here, under the **Sign in to Your Account** option, click on **SSO**. We all use a common denomination, which is the name of the company. Type **nvidia** in lowercase to gain access.  
 
 ### Project Allotment  
-Once you enter, you will see all the projects assigned to you. From this list, click on the one you’re working on—**VDC in LLM**.  
+Once you enter, you will see all the projects assigned to you. From this list, click on the one you’re working on. In today's case, it will be **VDC in LLM**.  
 
 Once the project is open, all the videos assigned to you will be listed. If none are available, click on **Request Tasks** at the top left to get tasks assigned.  
 
