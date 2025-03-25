@@ -1,3 +1,5 @@
+Hello! 
+
 With a fascination for teaching and technology, I found their intersection in tech writing to be a natural fit. My experience as a Prompt Engineer Associate, creating content for training AI models, has given me a strong foundation in structured writing. I am also familiar with GitHub and version control. With solid research and writing skills, I ensure that my documents serve their intended purpose effectively. I am proficient in DITA and tools like Oxygen XML Editor and FrameMaker. To demonstrate my understanding of tech writing, I have put together a few sample pieces on fundamental topics.
 
 **User Guide:**  
